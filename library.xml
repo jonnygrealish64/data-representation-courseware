@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Book category="Technical">
+        <ISBN>0132350882</ISBN>
+        <Title>Clean Code: A Handbook of Agile Software Craftsmanship</Title>
+        <Author>Robert C. Martin</Author>
+        <ISBN>0988262592</ISBN>
+        <Title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</Title>
+        <Author>Gene Kim, Kevin Behr, George Spafford</Author>
+    </Book>
+    <Book category="Cookery">
+        <ISBN>1444756699</ISBN>
+        <Title>Gordon Ramsay's Ultimate Cookery Course</Title>
+        <Author>Gordon Ramsay</Author>
+        <ISBN>B07J2VYSVT</ISBN>
+        <Title>From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen</Title>
+        <Author>Snoop Dogg, Martha Stewart</Author>
+    </Book>
+</Library>
